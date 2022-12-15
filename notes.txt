@@ -1,0 +1,89 @@
+naming routes
+
+Route   ->name()
+to use it {{routes('')}} instead of {{ url('') }}
+
+
+
+
+reading:
+service container
+csrf attack -  _token
+@csrf in forms
+routes msg code 300,400,500
+
+magic methods : get & set
+
+
+middleware is based on the pipeline pattern
+
+
+
+mailtrap.io
+
+
+msg queue
+
+
+
+
+fake filler -google extintion
+
+
+slim framework
+
+
+datatype collection ?
+
+
+
+find vs findorfail
+
+
+destroy method is sent through post method
+
+blade directive in nav class attribute
+
+
+//////////
+/products
+//////////
+
+
+1-factory for products
+
+
+2-show products in home page
+
+
+3-show products in products
+
+paginate products
+
+pagination problem
+register vs boot in app service provider
+
+
+
+///////////////
+
+
+
+table settings
+for the about us page
+
+
+///////////////////
+
+routes for:
+- create
+- store --> POST
+- index
+- edit
+- updat  --> PUT
+- del  --> DELETE
+- show
+
+resource controller --> restful apis
+
+alias AS
