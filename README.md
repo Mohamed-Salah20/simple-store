@@ -3,6 +3,7 @@ environment setup
 #first make sure that php 7.3^ & mysql are installed
 
 php -v
+
 mysql --version
 
 #if not then install xampp https://www.apachefriends.org/
