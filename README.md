@@ -1,3 +1,5 @@
+cheack your environment setup
+----------
 #first make sure that php 7.3^ is installed
 
 php -v
@@ -16,7 +18,7 @@ composer -v
 
 
 
-#run the following commands in terminal in the projects root directory:
+run the following commands in terminal in the projects root directory:
 ------------------------------
 
 cp .env.example .env
@@ -36,7 +38,10 @@ php artisan serve
 
 to access dashboard:
 ------------
+
 url/login
+
 email:admin@admin.com
+
 password:1234
 
