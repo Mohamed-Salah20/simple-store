@@ -1,19 +1,16 @@
 environment setup
 ----------
-#first make sure that php 7.3^ & mysql are installed, preferably php 8
-
+#check that php 8 is installed
 
 php -v
 
-mysql --version
+#to download php use xampp https://www.apachefriends.org/
 
-#if not then install xampp https://www.apachefriends.org/
-
-#then make sure that composer is installed
+#check if composer is installed
 
 composer -v
 
-#if not then download it https://getcomposer.org/
+#to download composer https://getcomposer.org/
 
 
 #create a new database named 'laravel' in mysql through localhost/phpmyadmin
@@ -47,4 +44,3 @@ url/login
 email:admin@admin.com
 
 password:1234
-
