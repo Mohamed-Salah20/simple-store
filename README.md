@@ -1,4 +1,4 @@
-cheack your environment setup
+environment setup
 ----------
 #first make sure that php 7.3^ & mysql are installed
 
