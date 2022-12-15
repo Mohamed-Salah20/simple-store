@@ -1,3 +1,7 @@
+cp .env.example .env
+
+CREATE DATABASE `laravel`;
+
 composer install
 
 npm install
