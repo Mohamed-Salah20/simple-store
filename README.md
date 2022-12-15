@@ -38,7 +38,7 @@ php artisan migrate --seed
 php artisan serve
 
 
-to access dashboard:
+to access admin dashboard:
 ------------
 
 url/login
