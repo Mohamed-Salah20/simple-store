@@ -1,6 +1,7 @@
 environment setup
 ----------
-#first make sure that php 7.3^ & mysql are installed
+#first make sure that php 7.3^ & mysql are installed, preferably php 8
+
 
 php -v
 
