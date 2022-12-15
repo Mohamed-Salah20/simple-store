@@ -14,7 +14,10 @@ composer -v
 #create a new database named 'laravel' in mysql 
 
 
+
+
 #run the following commands in terminal in the projects root directory:
+------------------------------
 
 cp .env.example .env
 
@@ -29,3 +32,11 @@ php artisan storage:link
 php artisan migrate --seed
 
 php artisan serve
+
+
+to access dashboard:
+------------
+url/login
+email:admin@admin.com
+password:1234
+
