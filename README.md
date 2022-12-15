@@ -1,6 +1,10 @@
-cp .env.example .env
 
-CREATE DATABASE `laravel`;
+create database named 'laravel'
+
+
+#run the following commands in terminal in the projects root directory:
+
+cp .env.example .env
 
 composer install
 
