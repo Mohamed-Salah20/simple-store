@@ -14,7 +14,7 @@ composer -v
 #if not then download it https://getcomposer.org/
 
 
-#create a new database named 'laravel' in mysql 
+#create a new database named 'laravel' in mysql through localhost/phpmyadmin
 
 
 
